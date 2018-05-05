@@ -33,8 +33,6 @@ public class MergeSort {
         // Need helper to perform sort
         int[] helper = new int[array.length];
         mergesort(array, helper, 0, array.length - 1);
-
-
     }
 
     public static void mergesort(int[] array, int[] helper, int low, int high) {
