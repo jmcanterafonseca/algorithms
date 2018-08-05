@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-36">
@@ -21,6 +21,27 @@
                 <element signature="e#523#524#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/recursion/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-45">
+              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackMin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stack/StackMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -66,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/recursion/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/recursion/steps.java" />
         <option value="$PROJECT_DIR$/src/recursion/Steps.java" />
+        <option value="$PROJECT_DIR$/src/recursion/Robot.java" />
       </list>
     </option>
   </component>
@@ -182,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Steps">
+  <component name="RunManager" selected="Application.Robot">
     <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTreeTest" />
       <module name="exercises" />
@@ -261,6 +283,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Robot" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Steps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Steps" />
       <module name="exercises" />
@@ -269,18 +302,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.TreeTest" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="A:B,C,D B:L,N,R C:H,J D:V" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,18 +353,18 @@
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.BinaryTreeTest" />
-      <item itemvalue="Application.TreeTest" />
       <item itemvalue="Application.GraphTest" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Steps" />
+      <item itemvalue="Application.Robot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Robot" />
         <item itemvalue="Application.Steps" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.BinaryTreeTest" />
         <item itemvalue="Application.GraphTest" />
-        <item itemvalue="Application.TreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +383,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1660" height="953" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -372,12 +392,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31740615" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31740615" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939759" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -615,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/StackMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/Exercise32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
@@ -771,6 +784,23 @@
           <folding>
             <element signature="e#523#524#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/StackMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
