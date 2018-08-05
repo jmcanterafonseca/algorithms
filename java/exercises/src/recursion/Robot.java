@@ -48,7 +48,7 @@ public class Robot {
         return path.toArray(new Coordinates[0]);
     }
 
-    public static void wayTo(Coordinates destination, List<Coordinates> path) {
+    private static void wayTo(Coordinates destination, List<Coordinates> path) {
         path.add(destination);
 
         // If destination has been reached return
@@ -80,7 +80,7 @@ public class Robot {
     }
 
     // Checks whether we will be entering into a depth path or not
-    public static boolean isThereWayFrom(Coordinates point) {
+    private static boolean isThereWayFrom(Coordinates point) {
         boolean wayUp = false;
         boolean wayLeft = false;
 
