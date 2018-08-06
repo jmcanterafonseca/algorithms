@@ -15,11 +15,26 @@
       <file leaf-file-name="Steps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
+            <state relative-caret-position="104">
               <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
               <folding>
                 <element signature="e#523#524#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hanoi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/recursion/Hanoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-644">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Robot2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Robot2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
@@ -98,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/recursion/Steps.java" />
         <option value="$PROJECT_DIR$/src/recursion/Robot.java" />
         <option value="$PROJECT_DIR$/src/recursion/Robot2.java" />
+        <option value="$PROJECT_DIR$/src/recursion/Hanoi.java" />
       </list>
     </option>
   </component>
@@ -231,23 +247,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Robot2">
+  <component name="RunManager" selected="Application.Hanoi">
     <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTreeTest" />
       <module name="exercises" />
       <option name="PROGRAM_PARAMETERS" value="8 12 1 99 -1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="BinaryTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.BinaryTreeTest" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="34 56 78 90 12 88" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -266,6 +270,18 @@
       <option name="MAIN_CLASS_NAME" value="recursion.Fibonacci" />
       <module name="exercises" />
       <option name="PROGRAM_PARAMETERS" value="34" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Hanoi" />
+      <module name="exercises" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -378,19 +394,19 @@
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.BinaryTreeTest" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Steps" />
       <item itemvalue="Application.Robot" />
       <item itemvalue="Application.Robot2" />
+      <item itemvalue="Application.Hanoi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.Robot2" />
         <item itemvalue="Application.Robot" />
         <item itemvalue="Application.Steps" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.BinaryTreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -776,17 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/Steps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/StackMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
@@ -808,6 +813,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-644">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
