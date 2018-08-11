@@ -12,19 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/Steps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding>
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Hanoi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Hanoi.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimesGenerator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrimesGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/primes/PrimesGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -106,11 +93,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/Robot2.java">
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/Permutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="249">
+              <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Substrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/Substrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -165,6 +164,8 @@
         <option value="$PROJECT_DIR$/src/array/DoubleSlice.java" />
         <option value="$PROJECT_DIR$/src/primes/Primes.java" />
         <option value="$PROJECT_DIR$/src/primes/PrimesGenerator.java" />
+        <option value="$PROJECT_DIR$/src/string/Substrings.java" />
+        <option value="$PROJECT_DIR$/src/string/Permutations.java" />
       </list>
     </option>
   </component>
@@ -273,12 +274,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -317,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimesGenerator">
+  <component name="RunManager" selected="Application.Permutations">
     <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTreeTest" />
       <module name="exercises" />
@@ -370,6 +365,18 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Permutations" />
+      <module name="exercises" />
+      <option name="PROGRAM_PARAMETERS" value="abc" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Primes" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="primes.Primes" />
       <module name="exercises" />
@@ -406,25 +413,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Slice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Slice" />
+    <configuration name="Substrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Substrings" />
       <module name="exercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ZeroString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitmask.ZeroString" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="1041" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bitmask.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,17 +473,17 @@
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.DoubleSlice" />
       <item itemvalue="Application.EquiPrefixSuffix" />
-      <item itemvalue="Application.Slice" />
-      <item itemvalue="Application.ZeroString" />
       <item itemvalue="Application.PrimesGenerator" />
+      <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.Substrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.Substrings" />
         <item itemvalue="Application.PrimesGenerator" />
         <item itemvalue="Application.DoubleSlice" />
         <item itemvalue="Application.EquiPrefixSuffix" />
-        <item itemvalue="Application.Slice" />
-        <item itemvalue="Application.ZeroString" />
       </list>
     </recent_temporary>
   </component>
@@ -578,8 +573,14 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/Permutations.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -963,6 +964,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Substrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
