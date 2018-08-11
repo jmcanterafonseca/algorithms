@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hanoi.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hanoi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Hanoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-644">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="76">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
               <folding>
                 <element signature="e#537#538#0" expanded="true" />
                 <element signature="e#579#580#0" expanded="true" />
@@ -40,11 +40,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursion/Robot.java">
+      <file leaf-file-name="ZeroString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bitmask/ZeroString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="741">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/recursion/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-98">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Slice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/Slice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EquiPrefixSuffix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/EquiPrefixSuffix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoubleSlice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/DoubleSlice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Primes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/primes/Primes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimesGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/primes/PrimesGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,15 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
               <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack/StackMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -114,6 +159,12 @@
         <option value="$PROJECT_DIR$/src/recursion/Robot.java" />
         <option value="$PROJECT_DIR$/src/recursion/Robot2.java" />
         <option value="$PROJECT_DIR$/src/recursion/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/bitmask/ZeroString.java" />
+        <option value="$PROJECT_DIR$/src/array/Slice.java" />
+        <option value="$PROJECT_DIR$/src/array/EquiPrefixSuffix.java" />
+        <option value="$PROJECT_DIR$/src/array/DoubleSlice.java" />
+        <option value="$PROJECT_DIR$/src/primes/Primes.java" />
+        <option value="$PROJECT_DIR$/src/primes/PrimesGenerator.java" />
       </list>
     </option>
   </component>
@@ -146,6 +197,18 @@
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bitmask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -159,6 +222,12 @@
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="primes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -226,10 +295,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="primes" />
+      <recent name="array" />
       <recent name="graph" />
       <recent name="tree" />
       <recent name="heap" />
-      <recent name="stack" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/recursion" />
@@ -247,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hanoi">
+  <component name="RunManager" selected="Application.PrimesGenerator">
     <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTreeTest" />
       <module name="exercises" />
@@ -256,6 +326,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DoubleSlice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.DoubleSlice" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EquiPrefixSuffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.EquiPrefixSuffix" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,14 +370,26 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Hanoi" />
+    <configuration name="Primes" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primes.Primes" />
       <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="4" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="primes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrimesGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primes.PrimesGenerator" />
+      <module name="exercises" />
+      <option name="PROGRAM_PARAMETERS" value="200" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,48 +406,25 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.QuickSort" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="22 1 34 56 8 4" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Robot" />
+    <configuration name="Slice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Slice" />
       <module name="exercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Robot2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Robot2" />
+    <configuration name="ZeroString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitmask.ZeroString" />
       <module name="exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Steps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Steps" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="50" />
+      <option name="PROGRAM_PARAMETERS" value="1041" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="bitmask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,23 +471,24 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.Primes" />
       <item itemvalue="Application.Exercise3" />
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.Steps" />
-      <item itemvalue="Application.Robot" />
-      <item itemvalue="Application.Robot2" />
-      <item itemvalue="Application.Hanoi" />
+      <item itemvalue="Application.DoubleSlice" />
+      <item itemvalue="Application.EquiPrefixSuffix" />
+      <item itemvalue="Application.Slice" />
+      <item itemvalue="Application.ZeroString" />
+      <item itemvalue="Application.PrimesGenerator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hanoi" />
-        <item itemvalue="Application.Robot2" />
-        <item itemvalue="Application.Robot" />
-        <item itemvalue="Application.Steps" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.PrimesGenerator" />
+        <item itemvalue="Application.DoubleSlice" />
+        <item itemvalue="Application.EquiPrefixSuffix" />
+        <item itemvalue="Application.Slice" />
+        <item itemvalue="Application.ZeroString" />
       </list>
     </recent_temporary>
   </component>
@@ -490,8 +572,14 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/EquiPrefixSuffix.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -774,17 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -829,13 +906,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/Hanoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-644">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="76">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           <folding>
             <element signature="e#537#538#0" expanded="true" />
             <element signature="e#579#580#0" expanded="true" />
             <element signature="e#608#609#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bitmask/ZeroString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Slice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/EquiPrefixSuffix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/DoubleSlice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primes/Primes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/primes/PrimesGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
