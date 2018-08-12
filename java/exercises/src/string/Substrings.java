@@ -1,5 +1,7 @@
 package string;
 
+import java.util.HashSet;
+
 public class Substrings {
     public static void main(String[] args) {
         String test = "jose";
@@ -12,5 +14,7 @@ public class Substrings {
 
 /*
         System.out.println(test.substring(1,4));  */
+
+        HashSet<Integer> hs = new HashSet<>();
     }
 }
