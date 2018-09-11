@@ -42,18 +42,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Substrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/Substrings.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,14 +54,23 @@
       <file leaf-file-name="CountDistinctSlides.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/CountDistinctSlides.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+            <state relative-caret-position="1216">
+              <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraySum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/ArraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-524">
+              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -99,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PowerSet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PowerSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/PowerSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="420">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/recursion/Queens.java" />
         <option value="$PROJECT_DIR$/src/recursion/Multiply.java" />
         <option value="$PROJECT_DIR$/src/recursion/PowerSet.java" />
+        <option value="$PROJECT_DIR$/src/array/ArraySum.java" />
       </list>
     </option>
   </component>
@@ -211,21 +209,7 @@
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-              <item name="Robot.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-              <item name="Robot2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -277,7 +261,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerSet">
+  <component name="RunManager" selected="Application.ArraySum">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArraySum" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinarySearchTreeTest" />
       <module name="exercises" />
@@ -315,17 +310,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="GenerateSlice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.GenerateSlice" />
-      <module name="exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,18 +420,18 @@
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.CountDistinctSlides" />
-      <item itemvalue="Application.GenerateSlice" />
       <item itemvalue="Application.Queens" />
       <item itemvalue="Application.Multiply" />
       <item itemvalue="Application.PowerSet" />
+      <item itemvalue="Application.ArraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.PowerSet" />
         <item itemvalue="Application.Multiply" />
         <item itemvalue="Application.Queens" />
         <item itemvalue="Application.CountDistinctSlides" />
-        <item itemvalue="Application.GenerateSlice" />
       </list>
     </recent_temporary>
   </component>
@@ -560,13 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/BinarySearchTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/heap/MinHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -949,19 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/CountDistinctSlides.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/Queens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -981,11 +945,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/PowerSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="420">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/CountDistinctSlides.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/ArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
         </state>
       </provider>
     </entry>
