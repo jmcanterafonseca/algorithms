@@ -70,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/array/ArrayPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -262,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayPermutation">
+  <component name="RunManager" selected="Application.SmallestPositiveInteger">
     <configuration name="ArrayPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.ArrayPermutation" />
       <module name="exercises" />
@@ -350,17 +350,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Queens" />
-      <module name="exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="QueueTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.QueueTest" />
       <module name="exercises" />
@@ -369,6 +358,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SmallestPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SmallestPositiveInteger" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +420,19 @@
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.Queens" />
       <item itemvalue="Application.Multiply" />
       <item itemvalue="Application.PowerSet" />
       <item itemvalue="Application.ArraySum" />
       <item itemvalue="Application.ArrayPermutation" />
+      <item itemvalue="Application.SmallestPositiveInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestPositiveInteger" />
         <item itemvalue="Application.ArrayPermutation" />
         <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.PowerSet" />
         <item itemvalue="Application.Multiply" />
-        <item itemvalue="Application.Queens" />
       </list>
     </recent_temporary>
   </component>
@@ -970,7 +970,7 @@
     <entry file="file://$PROJECT_DIR$/src/array/ArrayPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
