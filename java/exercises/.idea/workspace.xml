@@ -12,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Slice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/Slice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenerateSlice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/GenerateSlice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="57">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,26 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoubleSlice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/DoubleSlice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountDistinctSlides.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/CountDistinctSlides.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
+            <state relative-caret-position="1140">
               <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,11 +42,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayPermutation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/ArrayPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="1007">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallestPositiveInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/SmallestPositiveInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrefixSums.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/PrefixSums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GCD.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/numbers/GCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -78,7 +84,7 @@
       <file leaf-file-name="Queens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Queens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="152">
               <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,7 +96,7 @@
       <file leaf-file-name="Multiply.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="1387">
               <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
             </state>
           </provider>
@@ -99,20 +105,11 @@
       <file leaf-file-name="PowerSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recursion/PowerSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="912">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Caterpillar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/Caterpillar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -129,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/linkedlist/LinkedListNode.java" />
         <option value="$PROJECT_DIR$/src/linkedlist/Exercise21.java" />
         <option value="$PROJECT_DIR$/src/Exercise1.java" />
         <option value="$PROJECT_DIR$/src/Exercise2.java" />
@@ -178,6 +174,9 @@
         <option value="$PROJECT_DIR$/src/recursion/PowerSet.java" />
         <option value="$PROJECT_DIR$/src/array/ArraySum.java" />
         <option value="$PROJECT_DIR$/src/array/ArrayPermutation.java" />
+        <option value="$PROJECT_DIR$/src/array/SmallestPositiveInteger.java" />
+        <option value="$PROJECT_DIR$/src/array/PrefixSums.java" />
+        <option value="$PROJECT_DIR$/src/numbers/GCD.java" />
       </list>
     </option>
   </component>
@@ -192,8 +191,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,25 +209,13 @@
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="numbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SmallestPositiveInteger">
+  <component name="RunManager" selected="Application.GCD">
     <configuration name="ArrayPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.ArrayPermutation" />
       <module name="exercises" />
@@ -315,25 +302,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Multiply" />
-      <module name="exercises" />
-      <option name="PROGRAM_PARAMETERS" value="12 12" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PowerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PowerSet" />
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.GCD" />
       <module name="exercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrefixSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.PrefixSums" />
+      <module name="exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +406,19 @@
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.BinarySearchTreeTest" />
       <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.Multiply" />
-      <item itemvalue="Application.PowerSet" />
       <item itemvalue="Application.ArraySum" />
       <item itemvalue="Application.ArrayPermutation" />
       <item itemvalue="Application.SmallestPositiveInteger" />
+      <item itemvalue="Application.PrefixSums" />
+      <item itemvalue="Application.GCD" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.PrefixSums" />
         <item itemvalue="Application.SmallestPositiveInteger" />
         <item itemvalue="Application.ArrayPermutation" />
         <item itemvalue="Application.ArraySum" />
-        <item itemvalue="Application.PowerSet" />
-        <item itemvalue="Application.Multiply" />
       </list>
     </recent_temporary>
   </component>
@@ -540,38 +526,23 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PrefixSums.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PrefixSums.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/GraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1235">
@@ -905,15 +876,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/DoubleSlice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="342">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/GenerateSlice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="57">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -922,7 +893,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/Queens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="152">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -932,15 +903,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="1387">
           <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/PowerSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="912">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,14 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/CountDistinctSlides.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
+        <state relative-caret-position="1140">
           <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,8 +934,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/ArrayPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="1007">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SmallestPositiveInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/PrefixSums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/numbers/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
