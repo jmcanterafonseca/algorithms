@@ -6,6 +6,11 @@ public class BinaryTreeNode<T> {
         this.value = value;
     }
 
+    public BinaryTreeNode(T value,BinaryTreeNode<T> parent) {
+        this.value = value;
+        this.parent = parent;
+    }
+
     public BinaryTreeNode() {
     }
 
