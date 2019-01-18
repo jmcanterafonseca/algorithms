@@ -14,6 +14,10 @@ public class BinaryTreeNode<T> {
     public BinaryTreeNode() {
     }
 
+    public String toString() {
+        return value.toString();
+    }
+
     public T value;
     public BinaryTreeNode<T> left = null;
     public BinaryTreeNode<T> right = null;
