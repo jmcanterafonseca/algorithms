@@ -6,4 +6,4 @@ This is part of my professional growth and intend to put here all the stuff that
 
 [Cracking the Coding Interview](https://www.amazon.es/dp/0984782850/ref=asc_df_098478285051471107/?tag=googshopes-21&creative=24538&creativeASIN=0984782850&linkCode=df0&hvdev=c&hvnetw=g&hvqmt=)
 
-See also [https://github.com/jmcanterafonseca/algorithms2ndtake]
+See also [https://github.com/jmcanterafonseca/algorithms2ndtake](https://github.com/jmcanterafonseca/algorithms2ndtake)
